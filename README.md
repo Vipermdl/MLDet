@@ -39,7 +39,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 </p>
    
 <h4>
-    <a href="https://github.com/Vipermdl/MLDet">View Demo</a>
+    <a href="https://github.com/Vipermdl/MLDet/result_video/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/Vipermdl/MLDet">Documentation</a>
   <span> · </span>
