@@ -12,7 +12,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>Deep learning for eastimating dissolved oxygen in global ocean</h1>
   
   <p>
-    Details for Oxyformer will be publicly available upon publication! 
+    Details for MLDet will be publicly available upon publication! 
   </p>
   
   
